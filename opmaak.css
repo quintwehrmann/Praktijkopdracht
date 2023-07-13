@@ -1,0 +1,52 @@
+header{
+background-color: red;  
+height: 400px;
+text-align: center;
+}
+
+
+
+#td1{background-color: aqua;
+width: 200px;
+}
+#td2{background-color: aquamarine;
+width: 200px;}
+#td3{background-color: azure;
+width: 200px;}
+#td4{background-color: hwb(202 0% 0%);
+width: 200px;}
+
+#td5{background-color: brown;
+width: 200px;}
+#td6{background-color: blueviolet;
+width: 200px;}
+#td7{background-color: rgb(4, 4, 121);
+width: 200px;}
+#td8{background-color: rgb(105, 50, 50);
+width: 200px;}
+
+#td9{background-color: bisque;
+width: 200px;}
+#td10{background-color: beige;
+width: 200px;}
+#td11{background-color: rgb(163, 255, 127);
+width: 200px;}
+#td12{background-color: rgb(17, 167, 167);
+width: 200px;}
+
+#td13{background-color: rgb(179, 124, 124);
+width: 200px;}
+#td14{background-color: rgb(175, 175, 27);
+width: 200px;}
+#td15{background-color: rgb(133, 2, 255);
+width: 200px;}
+#td16{background-color: rgb(212, 133, 36);
+width: 200px;}
+
+
+footer{
+background-color: blue; 
+height: 400px;   
+}
+
+
