@@ -1,0 +1,54 @@
+body{
+padding: 5px;    
+background-color:burlywood;    
+font-family: 'Bitter', serif;
+color:black;
+}
+header{
+padding: 5px;    
+background-color: antiquewhite;    
+text-align: center;
+height: 150px;
+width: auto;
+}
+li{
+display: inline-block;
+height: 22px;
+width: 100px;
+color: black;
+background-color:burlywood;
+margin: 10px;
+text-align: center;
+}
+li :hover{background-color:antiquewhite;
+}
+a{text-align: center;
+color: rgb(0, 0, 0);}
+.table{
+    border: 1px;
+}
+table,th,td {
+    border-style: groove;
+    width: 500px;
+}
+
+input[type="text"], input[type="email"], input[type="date"] , textarea, button
+{display: block;margin: 15px 0px; 
+width: 400px;
+box-sizing: border-box;}
+
+textarea{
+margin: 15px 0px ;    
+height: 300px;    
+max-height: 300px;
+}
+
+button:active{
+background-color: rgb(173, 179, 233);color: rgb(199, 25, 25);
+}
+
+
+footer{
+padding: 5px;
+background-color: antiquewhite;    
+}
