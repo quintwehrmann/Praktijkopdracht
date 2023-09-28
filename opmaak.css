@@ -35,12 +35,16 @@ table,th,td {
 input[type="text"], input[type="email"], input[type="date"] , textarea, button
 {display: block;margin: 15px 0px; 
 width: 400px;
+border: 2px;
+border-style: groove;
+border-color: antiquewhite;
 box-sizing: border-box;}
 
 textarea{
 margin: 15px 0px ;    
 height: 300px;    
 max-height: 300px;
+border-style: groove;
 }
 
 button:active{
